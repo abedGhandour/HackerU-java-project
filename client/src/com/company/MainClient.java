@@ -11,6 +11,7 @@ public class MainClient {
     public static void main(String[] args)throws IOException, EndOfStream {
         while (true){
             System.out.println("please choose: ");
+            //comment
             System.out.println("1. getTips");
             System.out.println("2. to read all content from file");
             System.out.println("3. to save your name&password in the list");
